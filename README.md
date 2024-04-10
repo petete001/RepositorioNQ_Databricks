@@ -1,2 +1,2 @@
 # RepositorioNQ_Databricks
-Repositorio para Github del curos de NQ
+Repositorio para Github del curso de NovaQuality
